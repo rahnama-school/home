@@ -12,6 +12,7 @@
   *zoom: 1;
 }
 
+
 .clearfix:before,
 .clearfix:after {
   display: table;
@@ -30,6 +31,7 @@
   background-color: transparent;
   border: 0;
 }
+
 
 .input-block-level {
   display: block;
@@ -1045,7 +1047,11 @@ legend {
   border: 0;
   border-bottom: 1px solid #e5e5e5;
 }
+#footertext{
 
+color: #ffffff;
+
+}
 legend small {
   font-size: 15px;
   color: #999999;

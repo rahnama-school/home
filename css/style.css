@@ -71,7 +71,7 @@ h1 {
 p {
     padding: 10px;
     font-weight: 100;
-    color: #fff;
+    color: #171414;
 }
 .navbar {
     background: #181A1C;
@@ -90,6 +90,9 @@ p {
     filter: none;
     border: none;
     box-shadow: none;
+}
+#falsazi a{
+ background:# 171414;
 }
 .navbar .brand img {
     width:120px;
